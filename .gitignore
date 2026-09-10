@@ -1,3 +1,4 @@
+
 # System file
 .DS_Store
 
@@ -11,5 +12,6 @@
 *.jpeg
 *.png
 
-
+# Ignore desserts subdirectory 
+desserts/
 
